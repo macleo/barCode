@@ -1,7 +1,7 @@
 # 基于条码的库存管理系统
 
 #### 项目介绍
-该系统采用php+Android共同开发完成。安卓端模拟扫描枪，web端负责显示及管理。
+该系统采用php+Android（本项目分web、Android两个分支）共同开发完成。安卓端模拟扫描枪，web端负责显示及管理。
 
 #### 软件架构
 ![架构流程图](https://gitee.com/uploads/images/2018/0702/124006_eb1e266d_1003712.png "屏幕截图.png")
@@ -21,7 +21,7 @@
 
 ![管理后台登录页](https://images.gitee.com/uploads/images/2018/0910/115446_8dc72cd1_1003712.png "屏幕截图.png")
 
->列表页（可直接点击数据表格进行编辑修改数据内容）
+>列表页
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/0910/115816_c16f265b_1003712.png "屏幕截图.png")
 
