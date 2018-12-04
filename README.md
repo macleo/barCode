@@ -1,4 +1,6 @@
 # 基于条码的库存管理系统
+原作者：https://gitee.com/One-NB/barCode
+谢谢分享
 
 #### 项目介绍
 该系统采用php+Android（本项目分web、Android两个分支）共同开发完成。安卓端模拟扫描枪，web端负责显示及管理。
