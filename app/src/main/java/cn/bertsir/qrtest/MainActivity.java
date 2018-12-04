@@ -12,7 +12,7 @@ import cn.bertsir.zbar.QrManager;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
+    /* 缺少权限申请部分 */
     private Button bt_scanr;
     private Button bt_scani;
     private static final String TAG = "MainActivity";

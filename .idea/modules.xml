@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zBarLibary-master.iml" filepath="$PROJECT_DIR$/zBarLibary-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barCode.iml" filepath="$PROJECT_DIR$/barCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/zbarlibary/zbarlibary.iml" filepath="$PROJECT_DIR$/zbarlibary/zbarlibary.iml" />
     </modules>
   </component>

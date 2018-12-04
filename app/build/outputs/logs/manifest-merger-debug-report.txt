@@ -1,147 +1,206 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6dec6ec559fc3f013c66730df1bfde8b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0084356267f2f876d413037410a42cea/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f103e5df6d81fe28fe21e46e60cba150/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/adf2215df60d68b271ff5e3ee579c3a7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b70089915ce2dcd149a032391b66e642/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5992c9514f4e99be9083b82e7b311474/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b25f2a5d8c6ed36c4e2dbdfce5ef0056/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f8cf1d03404f1292cdc345965989cc42/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c6b2fd449cc43586af19436f0e1e0e54/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:3:11-38
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:3:11-38
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:5:5-79
-MERGED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:19:5-80
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-80
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-80
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:5:22-77
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:5:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:6:5-80
-MERGED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:18:5-81
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:5-81
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:7:5-65
-MERGED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-65
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:7:5-65
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:7:22-62
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:7:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:9:5-67
-MERGED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:17:5-67
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:5-67
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:5-67
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:9:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:11:5-71
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:11:5-71
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:11:22-68
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:11:22-68
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:13:5-79
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:13:22-76
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:15:5-76
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:15:5-76
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:15:22-73
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:15:22-73
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:17:5-79
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:19:5-75
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:19:5-75
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:19:22-72
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:19:22-72
 application
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:22:5-35:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\le\.android\build-cache\9c45e8589a21e55a13b973d596de915dca87768a\output\AndroidManifest.xml:9:5-20
-MERGED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:22:5-27:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\le\.android\build-cache\d03bfc9431e703db35faf3c7d9cd5a697e72e962\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\le\.android\build-cache\f61ddff018626ede41b20802303abedb611bc75a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\le\.android\build-cache\6f2b07a022c5152e20cd3f61ac99326bfbadf53e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\le\.android\build-cache\2e38c08858cc76a752354b5fb27e75fb8bebc8e7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\le\.android\build-cache\bd05a0e8606cb7a59e4569e8576263e6bd8f6cc0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\le\.android\build-cache\1046e441f90bd57f5680ea40271cad111a9d8778\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\le\.android\build-cache\2e63df82ee0f2f1f5812d372cd60de6b0e907eed\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\le\.android\build-cache\92418c1d112902304bcc3fb7acc7bc5d4045314d\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\le\.android\build-cache\f5748f771ec1c2b7df9e90237d0c29d7d3d5dfa9\output\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:25:9-41
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:22:5-35:19
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:5-27:19
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:5-27:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6dec6ec559fc3f013c66730df1bfde8b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6dec6ec559fc3f013c66730df1bfde8b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0084356267f2f876d413037410a42cea/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0084356267f2f876d413037410a42cea/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f103e5df6d81fe28fe21e46e60cba150/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f103e5df6d81fe28fe21e46e60cba150/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/adf2215df60d68b271ff5e3ee579c3a7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/adf2215df60d68b271ff5e3ee579c3a7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b70089915ce2dcd149a032391b66e642/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b70089915ce2dcd149a032391b66e642/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5992c9514f4e99be9083b82e7b311474/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5992c9514f4e99be9083b82e7b311474/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b25f2a5d8c6ed36c4e2dbdfce5ef0056/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b25f2a5d8c6ed36c4e2dbdfce5ef0056/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f8cf1d03404f1292cdc345965989cc42/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f8cf1d03404f1292cdc345965989cc42/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c6b2fd449cc43586af19436f0e1e0e54/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c6b2fd449cc43586af19436f0e1e0e54/AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:26:9-35
-	android:allowBackup
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:25:9-41
 	android:icon
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:24:9-40
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:24:9-40
+	android:allowBackup
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:27:9-40
 activity#cn.bertsir.qrtest.MainActivity
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:28:9-33:20
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:28:9-33:20
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:28:19-64
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:29:13-32:29
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:28:19-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:29:13-32:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:30:17-68
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:30:17-68
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:31:17-76
+ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:31:17-76
 	android:name
-		ADDED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml:31:27-74
 uses-sdk
-INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\le\.android\build-cache\9c45e8589a21e55a13b973d596de915dca87768a\output\AndroidManifest.xml:5:5-7:41
-MERGED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\le\.android\build-cache\d03bfc9431e703db35faf3c7d9cd5a697e72e962\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\le\.android\build-cache\f61ddff018626ede41b20802303abedb611bc75a\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\le\.android\build-cache\6f2b07a022c5152e20cd3f61ac99326bfbadf53e\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\le\.android\build-cache\2e38c08858cc76a752354b5fb27e75fb8bebc8e7\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\le\.android\build-cache\bd05a0e8606cb7a59e4569e8576263e6bd8f6cc0\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\le\.android\build-cache\1046e441f90bd57f5680ea40271cad111a9d8778\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\le\.android\build-cache\2e63df82ee0f2f1f5812d372cd60de6b0e907eed\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\le\.android\build-cache\92418c1d112902304bcc3fb7acc7bc5d4045314d\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\le\.android\build-cache\f5748f771ec1c2b7df9e90237d0c29d7d3d5dfa9\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6dec6ec559fc3f013c66730df1bfde8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6dec6ec559fc3f013c66730df1bfde8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0084356267f2f876d413037410a42cea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0084356267f2f876d413037410a42cea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f103e5df6d81fe28fe21e46e60cba150/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f103e5df6d81fe28fe21e46e60cba150/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/adf2215df60d68b271ff5e3ee579c3a7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/adf2215df60d68b271ff5e3ee579c3a7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b70089915ce2dcd149a032391b66e642/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b70089915ce2dcd149a032391b66e642/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5992c9514f4e99be9083b82e7b311474/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5992c9514f4e99be9083b82e7b311474/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b25f2a5d8c6ed36c4e2dbdfce5ef0056/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b25f2a5d8c6ed36c4e2dbdfce5ef0056/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f8cf1d03404f1292cdc345965989cc42/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f8cf1d03404f1292cdc345965989cc42/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c6b2fd449cc43586af19436f0e1e0e54/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c6b2fd449cc43586af19436f0e1e0e54/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\le\.android\build-cache\d03bfc9431e703db35faf3c7d9cd5a697e72e962\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\le\Downloads\zBarLibary-master\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macleo/AndroidStudioProjects/demo/barCode/app/src/main/AndroidManifest.xml
 uses-feature#android.hardware.camera
-ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:13:5-60
+ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-60
 	android:name
-		ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:13:19-57
+		ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:14:5-70
+ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-70
 	android:name
-		ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:14:19-67
+		ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:19-67
 uses-permission#android.permission.FLASHLIGHT
-ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:16:5-69
+ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:5-69
 	android:name
-		ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:16:22-66
+		ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:22-66
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:20:5-84
+ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-84
 	android:name
-		ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:20:22-81
+		ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:22-81
 activity#cn.bertsir.zbar.QRActivity
-ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:26:9-63
+ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:26:9-63
 	android:name
-		ADDED from [cn.bertsir.zbarLibary:zbarlibary:1.1.2] C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\AndroidManifest.xml:26:19-60
+		ADDED from [:zbarlibary] /Users/macleo/AndroidStudioProjects/demo/barCode/zbarlibary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:26:19-60
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\le\.android\build-cache\d03bfc9431e703db35faf3c7d9cd5a697e72e962\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\le\.android\build-cache\f61ddff018626ede41b20802303abedb611bc75a\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\le\.android\build-cache\6f2b07a022c5152e20cd3f61ac99326bfbadf53e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\le\.android\build-cache\2e38c08858cc76a752354b5fb27e75fb8bebc8e7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\le\.android\build-cache\bd05a0e8606cb7a59e4569e8576263e6bd8f6cc0\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\le\.android\build-cache\1046e441f90bd57f5680ea40271cad111a9d8778\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\le\.android\build-cache\2e63df82ee0f2f1f5812d372cd60de6b0e907eed\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\le\.android\build-cache\92418c1d112902304bcc3fb7acc7bc5d4045314d\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\le\.android\build-cache\f5748f771ec1c2b7df9e90237d0c29d7d3d5dfa9\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0084356267f2f876d413037410a42cea/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0084356267f2f876d413037410a42cea/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f103e5df6d81fe28fe21e46e60cba150/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f103e5df6d81fe28fe21e46e60cba150/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/adf2215df60d68b271ff5e3ee579c3a7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/adf2215df60d68b271ff5e3ee579c3a7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b70089915ce2dcd149a032391b66e642/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b70089915ce2dcd149a032391b66e642/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5992c9514f4e99be9083b82e7b311474/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5992c9514f4e99be9083b82e7b311474/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b25f2a5d8c6ed36c4e2dbdfce5ef0056/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b25f2a5d8c6ed36c4e2dbdfce5ef0056/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f8cf1d03404f1292cdc345965989cc42/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f8cf1d03404f1292cdc345965989cc42/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c6b2fd449cc43586af19436f0e1e0e54/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c6b2fd449cc43586af19436f0e1e0e54/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\le\.android\build-cache\d03bfc9431e703db35faf3c7d9cd5a697e72e962\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\le\.android\build-cache\d03bfc9431e703db35faf3c7d9cd5a697e72e962\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/macleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cbf7eae524c9c826b03f6d7f5b8383f/AndroidManifest.xml:26:9-47

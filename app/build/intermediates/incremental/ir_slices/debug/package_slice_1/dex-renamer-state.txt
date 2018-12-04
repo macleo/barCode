@@ -1,0 +1,4 @@
+#Tue Dec 04 10:12:53 CST 2018
+base.0=/Users/macleo/AndroidStudioProjects/demo/barCode/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
